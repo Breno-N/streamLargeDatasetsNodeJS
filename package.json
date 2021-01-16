@@ -1,0 +1,16 @@
+{
+  "name": "streamLargeDatasetsNodeJs",
+  "version": "1.0.0",
+  "description": "Example project to stream data in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Breno Henrique Moreno Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.3.1",
+	"dotenv": "^8.2.0"
+  }
+}
